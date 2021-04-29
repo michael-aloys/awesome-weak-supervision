@@ -28,7 +28,7 @@ Surveys give a broad overview of a field and can allow you to quickly get insigh
 - [A Survey on Recent Approaches for Natural Language Processing in Low-Resource Scenarios](https://arxiv.org/abs/2010.12309) (NAACL, 2021) [NLP] Section 4 covers both methods for weakly supervision in different NLP tasks as well as how to handly noisy labels.
 - [A Brief Survey of Relation Extraction Based on Distant Supervision](https://link.springer.com/chapter/10.1007/978-3-030-22744-9_23) (ICCS, 2019) [NLP, RE] A survey specifically on distant supervision for relation extraction.
 - [Relation Extraction Using Distant Supervision: A Survey](https://dl.acm.org/doi/10.1145/3241741) (ACM Computing Surveys, 2018) [NLP, RE] Another survey specifically on distant supervision for relation extraction.
-- [A Survey of Noise Reduction Methods for Distant Supervision(https://dl.acm.org/doi/10.1145/2509558.2509571) (AKBC 2013) [NLP, RE] A survey that covers different ways to handle annotation errors in distantly supervised relation extraction data.
+- [A Survey of Noise Reduction Methods for Distant Supervision](https://dl.acm.org/doi/10.1145/2509558.2509571) (AKBC 2013) [NLP, RE] A survey that covers different ways to handle annotation errors in distantly supervised relation extraction data.
 
 ## Foundational Papers
 
