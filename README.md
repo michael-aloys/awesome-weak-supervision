@@ -1,3 +1,5 @@
+# awesome-weak-supervision
+
 A curated list of weak and distant supervision papers and tools.
 
 ## Table of Contents
