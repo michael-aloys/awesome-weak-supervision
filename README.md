@@ -43,6 +43,7 @@ Important steps in how we came to the current state of the art.
 Open-source libraries and tools already providing implementations that get you started quickly.
 
 - [Cleanlab](https://github.com/cgnorthcutt/cleanlab) [ML, CV, NLP] "Python package for machine learning with noisy labels. cleanlab cleans labels and supports finding, quantifying, and learning with label errors in datasets."
+- [Knodle](https://github.com/knodle/knodle) [ML,NLP] "Modular weakly supervised learning with PyTorch."
 - [Snorkel](https://github.com/snorkel-team/snorkel) [ML, CV, NLP] "Programmatically build and manage training data.”
 - [ANEA](https://github.com/uds-lsv/anea) [NLP] "A tool to automatically annotate named entities in unlabeled text based on entity lists for the use as distant supervision"
 
