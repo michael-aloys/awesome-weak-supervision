@@ -53,6 +53,7 @@ Datasets generated through weak and distant supervision. These works can provide
 
 - [NoisyNER. Analysing the Noise Model Error for Realistic Noisy Label Data](https://arxiv.org/abs/2101.09763) (AAAI, 2021) [NLP, NER] A named entity recognition dataset with different label sets created through distant supervision and manual rules. 
 - [Beyond Synthetic Noise: Deep Learning on Controlled Noisy Labels](http://proceedings.mlr.press/v119/jiang20c.html) (PMLR, 2020) [CV] A dataset with noisy labels obtained through web crawling.
+- [Cross-lingual Name Tagging and Linking for 282 Languages](https://www.aclweb.org/anthology/P17-1178.pdf) (ACL, 2017) [NLP, NER, multilingual] A multilingual named entity recognition dataset derived from Wikipedia (WikiAnn). 
 - [Learning with Noisy Labels for Sentence-level Sentiment Classification](https://www.aclweb.org/anthology/D19-1655/) (EMNLP, 2019) [NLP, Sentiment] A sentiment analysis dataset created through weak supervision leveraging the context of sentences.
 - [Food-101N. CleanNet: Transfer Learning for Scalable Image Classifier Training With Label Noise](https://openaccess.thecvf.com/content_cvpr_2018/html/Lee_CleanNet_Transfer_Learning_CVPR_2018_paper.html) (CVPR, 2018) [CV] An image detection dataset focused on a specific domain.
 [WebVision. WebVision Database: Visual Learning and Understanding from Web Data](https://data.vision.ee.ethz.ch/cvl/webvision//dataset2017.html) (Arxiv, 2017) [CV] An image detection dataset created through weak supervision from web crawling.
