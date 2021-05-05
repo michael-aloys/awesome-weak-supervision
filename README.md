@@ -14,7 +14,7 @@ A curated list of weak and distant supervision papers and tools.
 
 Weak supervision and distant supervision provide ways to (semi-) automatically generate training data for machine learning systems in a fast and efficient manner where normal, supervised training data is lacking. This idea is popular in fields like natural language processing and computer vision and is actively researched. Here, we list interesting papers and tools to help newcomers from both the research and the application side try out weak supervision.
 
-This list was started for the WeaSuL Workshop on Weakly Supervised Learning at ICLR'21 and we welcome contributions to extend it.
+This list was started by the organizers for the [WeaSuL Workshop on Weakly Supervised Learning](https://weasul.github.io/organizers/) at ICLR'21 and we welcome contributions to extend it.
 
 ## Contributing
 
