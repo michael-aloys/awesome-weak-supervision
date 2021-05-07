@@ -36,7 +36,7 @@ Important steps in how we came to the current state of the art.
 
 - [Distant Supervision for Relation Extraction Without Labeled Data](https://www.aclweb.org/anthology/P09-1113/) (ACL, 2009) [NLP, RE]
 - [Data Programming: Creating Large Training Sets, Quickly](https://papers.nips.cc/paper/2016/hash/6709e8d64a5f47269ed5cea9f625f7ab-Abstract.html) (NIPS 2016) [ML]
-
+- [Learning from Rules Generalizing Labeled Exemplars](https://arxiv.org/abs/2004.06025) (ICLR-2020, Spotlight) [ML, NLP]
 
 ## Libraries and Tools
 
