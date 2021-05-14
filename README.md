@@ -52,7 +52,7 @@ Open-source libraries and tools already providing implementations that get you s
 Datasets generated through weak and distant supervision. These works can provide both insights into how to generate weakly supervised data as well as to evaluate your learning algorithms on them.
 
 - [NoisyNER. Analysing the Noise Model Error for Realistic Noisy Label Data](https://arxiv.org/abs/2101.09763) (AAAI, 2021) [NLP, NER] A named entity recognition dataset with different label sets created through distant supervision and manual rules. 
-- [Learning from Rules Generalizing Labeled Exemplars](https://arxiv.org/abs/2004.06025) (ICLR, 2020) [ML, NLP] Four NLP datasets on text classification and slot filling.
+- [Learning from Rules Generalizing Labeled Exemplars](https://arxiv.org/abs/2004.06025) (ICLR, 2020) [ML, NLP] Four NLP datasets on text classification and slot filling. Using rules for labeling.
 - [Beyond Synthetic Noise: Deep Learning on Controlled Noisy Labels](http://proceedings.mlr.press/v119/jiang20c.html) (PMLR, 2020) [CV] A dataset with noisy labels obtained through web crawling.
 - [Learning with Noisy Labels for Sentence-level Sentiment Classification](https://www.aclweb.org/anthology/D19-1655/) (EMNLP, 2019) [NLP, Sentiment] A sentiment analysis dataset created through weak supervision leveraging the context of sentences.
 - [Food-101N. CleanNet: Transfer Learning for Scalable Image Classifier Training With Label Noise](https://openaccess.thecvf.com/content_cvpr_2018/html/Lee_CleanNet_Transfer_Learning_CVPR_2018_paper.html) (CVPR, 2018) [CV] An image detection dataset focused on a specific domain.
