@@ -7,6 +7,7 @@ A curated list of weak and distant supervision papers and tools.
 - [Contributing](#contributing)
 - [Surveys](#surveys)
 - [Foundational Papers](#foundational-papers)
+- [Books](#books)
 - [Libraries & Tools](#libraries-and-tools)
 - [Datasets & Benchmarks](#datasets-and-benchmarks)
 
@@ -36,6 +37,9 @@ Important steps in how we came to the current state of the art.
 
 - [Distant Supervision for Relation Extraction Without Labeled Data](https://www.aclweb.org/anthology/P09-1113/) (ACL, 2009) [NLP, RE]
 - [Data Programming: Creating Large Training Sets, Quickly](https://papers.nips.cc/paper/2016/hash/6709e8d64a5f47269ed5cea9f625f7ab-Abstract.html) (NIPS 2016) [ML]
+
+## Books
+- [Practical Weak Supervision: Doing More with Less Data](https://www.oreilly.com/library/view/practical-weak-supervision/9781492077053/) (O'Reilly Media, 2021) [NLP, CV] "It talks about building natural language processing and computer vision projects using weakly labeled datasets from Snorkel tool."
 
 
 ## Libraries and Tools
