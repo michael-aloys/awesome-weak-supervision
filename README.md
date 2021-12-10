@@ -38,6 +38,10 @@ Important steps in how we came to the current state of the art.
 - [Distant Supervision for Relation Extraction Without Labeled Data](https://www.aclweb.org/anthology/P09-1113/) (ACL, 2009) [NLP, RE]
 - [Data Programming: Creating Large Training Sets, Quickly](https://papers.nips.cc/paper/2016/hash/6709e8d64a5f47269ed5cea9f625f7ab-Abstract.html) (NIPS 2016) [ML]
 
+## Overview Papers 
+- [A brief introduction to weakly supervised learning](https://academic.oup.com/nsr/article/5/1/44/4093912) (National Science Review,2018) This paper provides an overview on weak supervision and its approaches. 
+- [Strength from Weakness: Fast Learning Using Weak Supervision](http://proceedings.mlr.press/v119/robinson20a/robinson20a.pdf) (ICML,2020) This paper make progress towards building theoretical foundations for weakly supervised learning.
+
 ## Books
 - [Practical Weak Supervision: Doing More with Less Data](https://www.oreilly.com/library/view/practical-weak-supervision/9781492077053/) (O'Reilly Media, 2021) [NLP, CV] "It talks about building natural language processing and computer vision projects using weakly labeled datasets from Snorkel tool."
 
