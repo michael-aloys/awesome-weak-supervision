@@ -7,6 +7,7 @@ A curated list of weak and distant supervision papers and tools.
 - [Contributing](#contributing)
 - [Surveys](#surveys)
 - [Foundational Papers](#foundational-papers)
+- [Overview Papers](#overview-papers) 
 - [Books](#books)
 - [Libraries & Tools](#libraries-and-tools)
 - [Datasets & Benchmarks](#datasets-and-benchmarks)
