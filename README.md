@@ -39,6 +39,7 @@ Important steps in how we came to the current state of the art.
 - [Data Programming: Creating Large Training Sets, Quickly](https://papers.nips.cc/paper/2016/hash/6709e8d64a5f47269ed5cea9f625f7ab-Abstract.html) (NIPS 2016) [ML]
 
 ## Overview Papers 
+Papers that provide a good background on the topic.
 - [A brief introduction to weakly supervised learning](https://academic.oup.com/nsr/article/5/1/44/4093912) (National Science Review,2018) This paper provides an overview on weak supervision and its approaches. 
 - [Strength from Weakness: Fast Learning Using Weak Supervision](http://proceedings.mlr.press/v119/robinson20a/robinson20a.pdf) (ICML,2020) This paper make progress towards building theoretical foundations for weakly supervised learning.
 
