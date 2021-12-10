@@ -22,12 +22,17 @@ This list was started by the organizers for the [WeaSuL Workshop on Weakly Super
 
 If you want to contribute to this list, just create a pull-request or a new issue. For a paper or tool, please provide all the necessary information (authors, title, conference, link, topic tags, short description). If you are unsure, feel free to open an issue to discuss it. If you encounter any typos, just let us know. Thanks!
 
+## Overview Papers & Articles 
+Texts that give a quick start into the topic.
+- [A brief introduction to weakly supervised learning](https://academic.oup.com/nsr/article/5/1/44/4093912) (National Science Review,2018) This paper provides an overview on weak supervision and its approaches. 
+- [A Visual Guide to Low-Resource NLP](https://towardsdatascience.com/a-visual-guide-to-low-resource-nlp-d7b4c7b1a4bc) This article gives a quick introduction with visual examples to low-resource NLP techniques including different weak supervision methods.
+
 ## Surveys
 
 Surveys give a broad overview of a field and can allow you to quickly get insights into current trends and issues for future work.
 
 - [Image Classification with Deep Learning in the Presence of Noisy Labels: A Survey](https://arxiv.org/abs/1912.05170) (Arxiv, 2021) [CV] A survey on how to handle the errors in weakly supervised or other noisily labeled data for computer vision.
-- [A Survey on Recent Approaches for Natural Language Processing in Low-Resource Scenarios](https://arxiv.org/abs/2010.12309) (NAACL, 2021) [NLP] Section 4 covers both methods for weakly supervision in different NLP tasks as well as how to handly noisy labels.
+- [A Survey on Recent Approaches for Natural Language Processing in Low-Resource Scenarios](https://aclanthology.org/2021.naacl-main.201/) (NAACL, 2021) [NLP] Section 4 covers both methods for weakly supervision in different NLP tasks as well as how to handly noisy labels.
 - [A Brief Survey of Relation Extraction Based on Distant Supervision](https://link.springer.com/chapter/10.1007/978-3-030-22744-9_23) (ICCS, 2019) [NLP, RE] A survey specifically on distant supervision for relation extraction.
 - [Relation Extraction Using Distant Supervision: A Survey](https://dl.acm.org/doi/10.1145/3241741) (ACM Computing Surveys, 2018) [NLP, RE] Another survey specifically on distant supervision for relation extraction.
 - [A Survey of Noise Reduction Methods for Distant Supervision](https://dl.acm.org/doi/10.1145/2509558.2509571) (AKBC 2013) [NLP, RE] A survey that covers different ways to handle annotation errors in distantly supervised relation extraction data.
@@ -38,11 +43,6 @@ Important steps in how we came to the current state of the art.
 
 - [Distant Supervision for Relation Extraction Without Labeled Data](https://www.aclweb.org/anthology/P09-1113/) (ACL, 2009) [NLP, RE]
 - [Data Programming: Creating Large Training Sets, Quickly](https://papers.nips.cc/paper/2016/hash/6709e8d64a5f47269ed5cea9f625f7ab-Abstract.html) (NIPS 2016) [ML]
-
-## Overview Papers 
-Papers that provide a good background on the topic.
-- [A brief introduction to weakly supervised learning](https://academic.oup.com/nsr/article/5/1/44/4093912) (National Science Review,2018) This paper provides an overview on weak supervision and its approaches. 
-- [Strength from Weakness: Fast Learning Using Weak Supervision](http://proceedings.mlr.press/v119/robinson20a/robinson20a.pdf) (ICML,2020) This paper make progress towards building theoretical foundations for weakly supervised learning.
 
 ## Books
 - [Practical Weak Supervision: Doing More with Less Data](https://www.oreilly.com/library/view/practical-weak-supervision/9781492077053/) (O'Reilly Media, 2021) [NLP, CV] "It talks about building natural language processing and computer vision projects using weakly labeled datasets from Snorkel tool."
