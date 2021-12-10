@@ -5,9 +5,9 @@ A curated list of weak and distant supervision papers and tools.
 ## Table of Contents
 - [Introduction](#introduction)
 - [Contributing](#contributing)
+- [Overview Texts](#overview-texts) 
 - [Surveys](#surveys)
 - [Foundational Papers](#foundational-papers)
-- [Overview Papers](#overview-papers) 
 - [Books](#books)
 - [Libraries & Tools](#libraries-and-tools)
 - [Datasets & Benchmarks](#datasets-and-benchmarks)
@@ -22,7 +22,7 @@ This list was started by the organizers for the [WeaSuL Workshop on Weakly Super
 
 If you want to contribute to this list, just create a pull-request or a new issue. For a paper or tool, please provide all the necessary information (authors, title, conference, link, topic tags, short description). If you are unsure, feel free to open an issue to discuss it. If you encounter any typos, just let us know. Thanks!
 
-## Overview Papers & Articles 
+## Overview Texts
 Texts that give a quick start into the topic.
 - [A brief introduction to weakly supervised learning](https://academic.oup.com/nsr/article/5/1/44/4093912) (National Science Review,2018) This paper provides an overview on weak supervision and its approaches. 
 - [A Visual Guide to Low-Resource NLP](https://towardsdatascience.com/a-visual-guide-to-low-resource-nlp-d7b4c7b1a4bc) This article gives a quick introduction with visual examples to low-resource NLP techniques including different weak supervision methods.
