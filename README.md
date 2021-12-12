@@ -56,6 +56,7 @@ Open-source libraries and tools already providing implementations that get you s
 - [Knodle](https://github.com/knodle/knodle) [ML, CV, NLP] "Modular weakly supervised learning with PyTorch."
 - [Snorkel](https://github.com/snorkel-team/snorkel) [ML, CV, NLP] "Programmatically build and manage training data.”
 - [ANEA](https://github.com/uds-lsv/anea) [NLP] "A tool to automatically annotate named entities in unlabeled text based on entity lists for the use as distant supervision"
+- [Sweak](https://github.com/NorskRegnesentral/skweak) [NLP] "It provides labeling functions to automatically label documents, and aggregate their results to obtain a labeled version of the corpus."
 
 ## Datasets and Benchmarks
 
